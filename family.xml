@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<beatles>
+  <title>Family</title>
+  <beatle>
+    <mom>John</mom>
+    <dad>Lennon</dad>
+    <first>Guitar</first>
+  </beatle>
+</beatles>
