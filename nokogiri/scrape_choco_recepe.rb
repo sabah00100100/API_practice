@@ -14,4 +14,6 @@ html_doc.search(".card__recipe").each do |element|
 end
 print recepes
 
+# scraped result of chocolate search in recepes site, extracted only title and put data into array
+
 # .first.attribute("title").value.strip
